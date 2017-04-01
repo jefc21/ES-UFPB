@@ -6,6 +6,7 @@ public class ES20162 {
 		System.out.println(" commit 2 rodrigo");
 		System.out.println(" commit 2 eric");
 		System.out.println(" commit 3 rodrigo");
+		System.out.println(" commit 3 eric");
 	}
 
 }
